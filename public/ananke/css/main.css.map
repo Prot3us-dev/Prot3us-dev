@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/eduardopassos/Documents/Dev/ed/prot3us-dev",
+	"sourceRoot": "/home/edpassos/Prot3us-dev",
 	"sources": [
 		"ananke/css/main.css"
 	],
