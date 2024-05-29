@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Prot3us</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Prot3us</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2024 19:36:49 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Docker on Windows</title>
-      <link>http://localhost:1313/posts/docker-on-windows/</link>
-      <pubDate>Sat, 04 May 2024 19:36:49 +0100</pubDate>
-      <guid>http://localhost:1313/posts/docker-on-windows/</guid>
-      <description>Is this here This is not working for some reason</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 02 May 2024 15:52:09 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction 2 Hello World!&#xA;This is my attempt at a &amp;ldquo;personal&amp;rdquo; website.&#xA;Meet Prot3us Purpose of the Blog What to Expect Unique Perspectives Engaging with Prot3us Future Goals Conclusion </description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
