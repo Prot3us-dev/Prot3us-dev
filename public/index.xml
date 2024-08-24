@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prot3us</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Prot3us</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 16:46:50 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distopia, a Realidade do Mundo</title>
+      <link>http://localhost:1313/posts/distopia-is-here/</link>
+      <pubDate>Mon, 08 Jul 2024 16:46:50 +0100</pubDate>
+      <guid>http://localhost:1313/posts/distopia-is-here/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker on Windows</title>
+      <link>http://localhost:1313/posts/docker-on-windows/</link>
+      <pubDate>Sat, 04 May 2024 19:36:49 +0100</pubDate>
+      <guid>http://localhost:1313/posts/docker-on-windows/</guid>
+      <description>Add Docker&amp;rsquo;s official GPG key: sudo apt-get install ca-certificates curl sudo install -m 0755 -d /etc/apt/keyrings sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc sudo chmod a+r /etc/apt/keyrings/docker.asc Add the repository to Apt sources: echo \ &amp;#34;deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \ $(. /etc/os-release &amp;amp;&amp;amp; echo &amp;#34;$VERSION_CODENAME&amp;#34;) stable&amp;#34; | \ sudo tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null sudo apt-get update Install Docker sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin </description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 02 May 2024 15:52:09 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Hello World!&#xA;This is my attempt at a semi personal website. I&amp;rsquo;m kind of a Software Developer who goes by the nickname &amp;ldquo;Prot3us&amp;rdquo;. I don&amp;rsquo;t know how you got here, but now that you are here I want to welcome you!&#xA;Prot3us, a kind of pseudonym of my internet persona. Under this pseudonym I want to log in this website some of my thoughts, ideas, maybe a few experiences that I&amp;rsquo;ve had in this planet we call Earth.</description>
+    </item>
   </channel>
 </rss>
